@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xenedium&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xenedium&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xenedium&theme=github_dark)
-![](http://xenedium.me/)
-[![Xenedium's GitHub stats](https://github-readme-stats.vercel.app/api?username=xenedium&hide=issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
