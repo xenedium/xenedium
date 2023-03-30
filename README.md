@@ -1,19 +1,25 @@
-### Hi there 👋
+###  👋 Hi there
 
-<!--
-**xenedium/xenedium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Ahmed 4th year student at EMSI, currently discovering, learning & practicing everything related to Cloud ☁, Infrastructure 🏗 & DevOps ♾. In my free time I usually try to automate repetitive and time consuming tasks.
 
-Here are some ideas to get you started:
+### 🛠 Tools & Stacks
+<img src="https://img.icons8.com/fluency/30/null/azure-1.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/null/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/color/30/null/git.png"/> <img src="https://img.icons8.com/color/30/null/linux--v1.png"/> 
+<img src="https://img.icons8.com/fluency/30/null/docker.png"/> 
+<img src="https://img.icons8.com/color/30/null/terraform.png"/> 
+<img src="https://img.icons8.com/fluency/30/null/c-sharp-logo.png"/> 
+<img src="https://img.icons8.com/fluency/30/null/node-js.png"/> 
+<img src="https://img.icons8.com/color/30/null/typescript.png"/> 
+<img src="https://img.icons8.com/color/30/null/java-coffee-cup-logo--v1.png"/> 
+<img src="https://img.icons8.com/color/30/null/python--v1.png"/> 
+<img src="https://img.icons8.com/officel/30/null/react.png"/> 
+### 📊 Stats
+<div align="center">
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xenedium&show_icons=true&theme=onedark" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xenedium&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xenedium&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xenedium&theme=github_dark)
+  <div>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xenedium&theme=onedark" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xenedium&theme=onedark" />
+  </div>
+  </div>
